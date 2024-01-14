@@ -39,4 +39,5 @@ namespace Projeto120.Services
             carRental.Invoice = new Invoice(basicPayment, tax);
         }
     }
+
 }
